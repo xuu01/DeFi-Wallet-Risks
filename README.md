@@ -1,2 +1,2 @@
 # DeFi-Wallet-Risks
-Identifying DeFi wallet risks and creating rules to reduce them.
+dentifying DeFi wallet risks and proposing strategies to help mitigate those risks in wallet design and development
